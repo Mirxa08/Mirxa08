@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://mirxa08.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-5cf2b0?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/huzaif-mirza-z24622/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@huzaifmirza08"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="mailto:huzaifmirza08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -20,12 +21,27 @@
 
 ## 👋 About me
 
-I'm an **AI / ML engineer** who likes taking an idea all the way from raw data to a deployed product.
+I'm an **AI / ML engineer** at [Analytiverse](https://www.analytiverse.com) in Lahore. I design the **agentic workflows and evaluations** that frontier models are trained on, and I build the systems that put AI into real products.
 
-- 🧠 Most of my work is **LLM-powered systems**: RAG assistants, semantic and hybrid search, text-to-SQL, AI characters
+- 🤖 I've authored **500+ agentic training notebooks** (multi-tool workflows, rule adherence, single- vs. multi-agent, computer-use RLHF evals) for frontier-model training. Promoted to reviewer on 2 client projects
+- 🧠 I build **LLM-powered systems**: RAG assistants, semantic and hybrid search, text-to-SQL, AI characters
 - 📈 I build **end-to-end ML pipelines**: ingestion, data validation, feature engineering, leakage-safe modeling, and serving
 - ⚙️ On the backend I mostly use **FastAPI + PostgreSQL** (pgvector, Neon), with Docker, Vercel and GPU workers for deployment
 - 🎮 Outside work: Valorant. Some of my projects use its match data too
+
+---
+
+## 💼 Experience
+
+| Role | Where | When |
+|---|---|---|
+| **AI / ML Engineer**: agentic workflows, LLM evals, adversarial prompting, RLHF | [Analytiverse](https://www.analytiverse.com) | Jul 2025 – present |
+| **Data Analyst**: automated complaints/survey system (+60% efficiency), RAG investigation assistant (−20% resolution time) | Indus Hospital, RTEH | Oct 2024 – Jun 2025 |
+| **AI / ML Engineer**: Dialogflow voice agent with TTS/STT, fine-tuned GPT-4o-mini & LLaMA 3.1 8B | [Mudirr](https://mudirr.com) | Aug 2024 – Feb 2025 |
+
+🎓 **BSc Computer Science**, FAST NUCES (2020 – 2024)
+
+<p align="center"><a href="https://mirxa08.github.io/portfolio/"><b>→ See the interactive portfolio</b></a></p>
 
 ---
 
