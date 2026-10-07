@@ -150,10 +150,6 @@ Scrapes VLR.gg match data into a **normalised SQLite** database, then lets you *
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mirxa08&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mirxa08/Mirxa08/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mirxa08/Mirxa08/output/github-snake.svg" />
