@@ -77,18 +77,6 @@ I'm an **AI / ML engineer** at [Analytiverse](https://www.analytiverse.com) in L
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [AlphaPulse: Crypto Trend Prediction](https://github.com/Analytiverse/crypto-trend-prediction)
-An end-to-end ML system that predicts **UP / DOWN / STABLE** price direction for BTC, ETH, SOL, XRP and ADA over 6h, 12h and 24h horizons.
-- Hourly CoinGecko ingestion into **PostgreSQL (Neon)** with automatic gap detection and repair
-- Leakage-safe features, chronological splits with temporal purging, and XGBoost compared against a logistic regression baseline
-- **FastAPI** prediction service and dashboard, plus a **Groq LLM** layer that explains each prediction
-
-`Python` `PostgreSQL` `XGBoost` `FastAPI` `Groq`
-<br/>🔗 **[Live demo](https://crypto-trend-prediction.vercel.app)**
-
-</td>
-<td width="50%" valign="top">
-
 ### ✨ Stella: AI Character Chat + Image Generation
 An AI companion platform where an LLM writes role-play replies and a **GPU worker** paints the current scene.
 - Layered **FastAPI** backend that works with any OpenAI-compatible LLM (Groq, or a self-hosted GGUF model through **Ollama**)
@@ -99,8 +87,6 @@ An AI companion platform where an LLM writes role-play replies and a **GPU worke
 <br/>🔗 **[Live demo](https://stella-rover14.vercel.app)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 [Policy Encyclopedia: SOP Compliance Assistant](https://github.com/Mirxa08/quality_project)
@@ -111,6 +97,8 @@ A **RAG assistant** for hospital SOPs and policies. Answers cite the policy code
 `RAG` `FAISS` `sentence-transformers` `Streamlit`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎯 [vlrscrape: VALORANT Esports Data + Text-to-SQL](https://github.com/mshayan3/vlrscrape)
@@ -119,6 +107,18 @@ Scrapes VLR.gg match data into a **normalised SQLite** database, then lets you *
 - One-command scrape and ingest. A Flask frontend turns questions into SQL with OpenAI
 
 `Scraping` `SQLite` `Flask` `Text-to-SQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [AlphaPulse: Crypto Trend Prediction](https://github.com/Analytiverse/crypto-trend-prediction)
+An end-to-end ML system that predicts **UP / DOWN / STABLE** price direction for BTC, ETH, SOL, XRP and ADA over 6h, 12h and 24h horizons.
+- Hourly CoinGecko ingestion into **PostgreSQL (Neon)** with automatic gap detection and repair
+- Leakage-safe features, chronological splits with temporal purging, and XGBoost compared against a logistic regression baseline
+- **FastAPI** prediction service and dashboard, plus a **Groq LLM** layer that explains each prediction
+
+`Python` `PostgreSQL` `XGBoost` `FastAPI` `Groq`
+<br/>🔗 **[Live demo](https://crypto-trend-prediction.vercel.app)**
 
 </td>
 </tr>
